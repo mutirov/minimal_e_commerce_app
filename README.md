@@ -1,16 +1,12 @@
-# e_commerce_shop
+![main](assets/images/screenshots/main.png)
+![detail](assets/images/screenshots/detail.png)
+![cart](assets/images/screenshots/cart.png)
+![favorites](assets/images/screenshots/favorites.png)
 
-A new Flutter project.
+## Features
 
-## Getting Started
+- State management using **Provider** for efficient and reactive UI updates.
+- Browse products by **categories** for easy navigation.
+- Add products to a **Favorites** page to quickly access your preferred items.
+- User **Profile** page to manage account details and preferences.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
